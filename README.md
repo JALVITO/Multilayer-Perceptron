@@ -56,7 +56,7 @@ and, for the return tuple:
 ```python
 nn.weights
 ```
-After training, this line will contain the final weights of the neural network (expressed as a 3-dimensional tuple; more on next section).
+After training, this line will contain the final weights of the neural network (expressed as a 3-dimensional tensor; more on next section).
 
 **Setting the neural network weights...**
 ```python
