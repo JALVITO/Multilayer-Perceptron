@@ -3,7 +3,7 @@ My own take on a simple multilayer perceptron neural network.
 
 ## Files
 - `data.csv` contains dummy data.
-- `Neuron.py`, `Layer.py`, `NeuralNetwork.py` contain the logic to their respective components.
+- `Neuron.py`, `Layer.py`, `NeuralNetwork.py` contain the logic for their respective components.
 - `Predict.py` contains an example on how to use the network to predict new values, after it has been trained.
 - `Train.py` contains an example on how to train the network.
 
